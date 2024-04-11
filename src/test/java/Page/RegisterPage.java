@@ -21,7 +21,7 @@ import java.util.Optional;
 public class RegisterPage {
     public final String urlRegister = "https://demo.automationtesting.in/Register.html";
     By headerRegister = By.xpath("//*[@id=\"section\"]/div/h2");
-    final String headerText = "Regi-ster";
+    final String headerText = "Register";
     By firstnameTxt = By.xpath("//*[@id=\"basicBootstrapForm\"]/div[1]/div[1]/input");
     By lastnameTxt = By.xpath("//*[@id=\"basicBootstrapForm\"]/div[1]/div[2]/input");
     By emailAdrressTxt = By.xpath("//*[@id=\"basicBootstrapForm\"]/div[2]/div");
