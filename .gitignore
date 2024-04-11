@@ -2,6 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+Register-automationtesting-Log4j2 - Provider - Threads/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
