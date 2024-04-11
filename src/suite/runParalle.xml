@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="MyTest" parallel="methods">
+        <groups>
+            <run>
+                <include name="Password"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="TCs.RegisterTCs"/>
+
+
+        </classes>
+    </test>
+</suite>

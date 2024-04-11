@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe688b00-fcef-4ddd-a1da-9cb01352188f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/keywords/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suite/runParalle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataTest/tcLastnameDob.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/records/verifyHeaderTC-18-03-2024 17-51-24.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logs/logUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logs/logUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/keywords/WebUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/keywords/WebUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/suite/run.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/suite/run.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CaptureScreen/ScreenShot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CaptureScreen/ScreenShot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataTest/dataTest.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataTest/dataTest.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Page/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Page/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Provider/DataProviderExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Provider/DataProviderExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TCs/RegisterTCs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TCs/RegisterTCs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/common/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/common/BaseTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dfOd7i4BElEKtiKf8585gbwuqj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.G:/learAuto/Register-automationtesting-Log4j2 - Provider - Threads/src/suite/run.xml.executor": "Run",
+    "TestNG.G:/learAuto/Register-automationtesting-Log4j2 - Provider - Threads/src/suite/runParalle.xml.executor": "Run",
+    "TestNG.G:/learAuto/Register-automationtesting/src/suite/listener.xml.executor": "Run",
+    "TestNG.G:/learAuto/Register-automationtesting/src/suite/run.xml.executor": "Run",
+    "TestNG.G:/learAuto/Register-automationtesting/src/suite/test.xml.executor": "Run",
+    "TestNG.RegisterTCs (1).executor": "Run",
+    "TestNG.RegisterTCs.executor": "Run",
+    "TestNG.RegisterTCs.searchCountry.executor": "Run",
+    "TestNG.RegisterTCs.t.executor": "Run",
+    "TestNG.RegisterTCs.test.executor": "Run",
+    "TestNG.RegisterTCs.testLocator.executor": "Run",
+    "TestNG.RegisterTCs.testLoginFromDataProviderExcelHashtable.executor": "Run",
+    "TestNG.RegisterTCs.testtest.executor": "Run",
+    "TestNG.RegisterTCs.trrtt.executor": "Run",
+    "TestNG.RegisterTCs.tt.executor": "Run",
+    "TestNG.RegisterTCs.veirfyDefaultCountry.executor": "Run",
+    "TestNG.RegisterTCs.veirfyMandatoryFieldsTC.executor": "Run",
+    "TestNG.RegisterTCs.verifyCountryTC.executor": "Run",
+    "TestNG.RegisterTCs.verifyDateTC.executor": "Run",
+    "TestNG.RegisterTCs.verifyDefaultFiled.executor": "Run",
+    "TestNG.RegisterTCs.verifyDefaultFiledsTC.executor": "Run",
+    "TestNG.RegisterTCs.verifyEnteredDataTC.executor": "Run",
+    "TestNG.RegisterTCs.verifyEnteredPasswordFieldTC.executor": "Run",
+    "TestNG.RegisterTCs.verifyEnteredRePasswordFieldTC.executor": "Run",
+    "TestNG.RegisterTCs.verifyGender.executor": "Run",
+    "TestNG.RegisterTCs.verifyGenderCheckboxDefaultTC.executor": "Run",
+    "TestNG.RegisterTCs.verifyHeaderTC.executor": "Run",
+    "TestNG.RegisterTCs.verifyLanguageMultiSelectTC.executor": "Run",
+    "TestNG.RegisterTCs.verifyPlaceHolderLastnameTC.executor": "Run",
+    "TestNG.RegisterTCs.verifySkillsTC.executor": "Run",
+    "TestNG.ScreenShot (1).executor": "Run",
+    "TestNG.ScreenShot.ScreenShot.executor": "Run",
+    "TestNG.ScreenShot.executor": "Run",
+    "TestNG.ScreenShot.test.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/learAuto/Newproject/fULL",
+    "onboarding.tips.debug.path": "G:/learAuto/Register-automationtesting/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\learAuto\Register-automationtesting-Log4j2 - Provider - Threads\src\suite" />
+      <recent name="G:\learAuto\Register-automationtesting\src\test\java\DataTest" />
+      <recent name="G:\learAuto\Register-automationtesting\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\learAuto\Register-automationtesting-Log4j2\src\test\java\DataTest" />
+      <recent name="G:\learAuto\Register-automationtesting\src\test" />
+      <recent name="G:\learAuto\Register-automationtesting\src\main\resources" />
+      <recent name="G:\learAuto\Register-automationtesting\src\test\java\resources" />
+      <recent name="G:\learAuto\Register-automationtesting\src\test\java\resource\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Helpers" />
+      <recent name="Provider" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RegisterTCs.trrtt">
+    <configuration name="G:/learAuto/Register-automationtesting-Log4j2 - Provider - Threads/src/suite/runParalle.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Register-automationtesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/suite/runParalle.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G:/learAuto/Register-automationtesting-Log4j2 - Provider - Threads/src/suite/run.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Register-automationtesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/suite/run.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTCs.trrtt" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Register-automationtesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TCs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TCs" />
+      <option name="MAIN_CLASS_NAME" value="TCs.RegisterTCs" />
+      <option name="METHOD_NAME" value="trrtt" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTCs.verifyDefaultFiledsTC" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Register-automationtesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TCs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TCs" />
+      <option name="MAIN_CLASS_NAME" value="TCs.RegisterTCs" />
+      <option name="METHOD_NAME" value="verifyDefaultFiledsTC" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTCs.verifyGender" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Register-automationtesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TCs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TCs" />
+      <option name="MAIN_CLASS_NAME" value="TCs.RegisterTCs" />
+      <option name="METHOD_NAME" value="verifyGender" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegisterTCs.trrtt" />
+        <item itemvalue="TestNG.G:/learAuto/Register-automationtesting-Log4j2 - Provider - Threads/src/suite/runParalle.xml" />
+        <item itemvalue="TestNG.RegisterTCs.verifyGender" />
+        <item itemvalue="TestNG.RegisterTCs.verifyDefaultFiledsTC" />
+        <item itemvalue="TestNG.G:/learAuto/Register-automationtesting-Log4j2 - Provider - Threads/src/suite/run.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe688b00-fcef-4ddd-a1da-9cb01352188f" name="Changes" comment="" />
+      <created>1710395753926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710395753926</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/TCs/RegisterTCs.java</url>
+          <line>101</line>
+          <properties class="TCs.RegisterTCs" method="test">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/TCs/RegisterTCs.java</url>
+          <line>208</line>
+          <properties class="TCs.RegisterTCs" method="tt">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
